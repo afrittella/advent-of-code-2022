@@ -1,0 +1,17 @@
+{
+  "name": "afrittella-advent-of-code-2022",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=18",
+    "npm":">8"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "author": {
+    "name": "Andrea Frittella",
+    "email": "info@andreafrittella.com"
+  }
+}
