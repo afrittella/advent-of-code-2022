@@ -3,7 +3,7 @@ const isContained = (first, second) =>
 
 const overlaps = (first, second) =>
   (parseInt(first[0]) >= parseInt(second[0]) && parseInt(first[0]) <= parseInt(second[1])) ||
-  (parseInt(first[1]) >= parseInt(second[0]) && parseInt(first[1]) <= parseInt(second[1]))  
+  (parseInt(first[1]) >= parseInt(second[0]) && parseInt(first[1]) <= parseInt(second[1]))
 
 export const processFirstPart = (lines) => {
   let acc = 0
